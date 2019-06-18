@@ -1,5 +1,29 @@
+# 基本配置
+
+### title
+本书标题
+### author
+本书作者
+### description
+本书描述
+### language
+本书语言，中文设置 "zh-hans" 即可
+### gitbook
+指定使用的 GitBook 版本
+### styles
+自定义页面样式
+### structure
+指定 Readme、Summary、Glossary 和 Languages 对应的文件名
+### links
+在左侧导航栏添加链接信息
+### plugins
+配置使用的插件
+### pluginsConfig
+配置插件的属性
+
+``` json 
 {
-    "title": "gitbook-start",
+    "title": "gitbook-start", 
     "author": "emjio",
     "description": "select * from learn",
     "language": "zh-hans",
@@ -8,11 +32,11 @@
         "website": "./styles/website.css"
     },
     "structure": {
-        "readme": "README.md"
+        "readme": "README.md"                           //本书简介
     },
     "links": {
         "sidebar": {
-            "我的开源": "https://github.com/emjio"
+            "我的开源": "https://github.com/emjio" //配置更多链接
         }
     },
     "plugins": [
@@ -31,7 +55,7 @@
         "github": {
             "url": "https://github.com/emjio"
         },
-        "github-buttons": {
+        "github-buttons": {   
             "buttons": [{
                 "user": "emjio",
                 "repo": "gitbook-start",
@@ -84,3 +108,6 @@
         }
     }
 }
+```
+
+

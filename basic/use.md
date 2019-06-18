@@ -1,19 +1,18 @@
 # Introduction
 
-## 立项
+## Build Setup
 
 ``` bash
 # 初始化项目
 #使用之前确保已安装node 
 # npm i  gitbook -g 或 cnpm i gitbook -g // 全局安装gitbook 
-# gitbook -V //查看版本 
 
 git clone https://github.com/emjio/gitbook-start.git
 
 cd gitbook-start
 
 # 安装依赖
-gitbook install 
+gitbook instart 
 
 # 开发时构建
 gitbook serve 
