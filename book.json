@@ -42,7 +42,7 @@
             ]
         },
         "donate": {
-            "alipay": "/images/1560839793051.jpg",
+            "alipay": "images/1560839793051.jpg",
             "title": "感谢支持",
             "button": "赞赏",
             "alipayText": " "
@@ -74,12 +74,12 @@
             "showLevel": false
         },
         "favicon":{
-            "shortcut": "./source/images/favicon.jpg",
-            "bookmark": "./source/images/favicon.jpg",
-            "appleTouch": "./source/images/apple-touch-icon.jpg",
+            "shortcut": "images/favicon.ico",
+            "bookmark": "images/favicon.ico",
+            "appleTouch": "images/apple-touch-icon.ico",
             "appleTouchMore": {
-                "120x120": "./source/images/apple-touch-icon.jpg",
-                "180x180": "./source/images/apple-touch-icon.jpg"
+                "120x120": "images/apple-touch-icon.ico",
+                "180x180": "images/apple-touch-icon.ico"
             }
         }
     }

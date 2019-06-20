@@ -11,4 +11,4 @@
 ```
 ## 即可自动生成如图所示结构
  ![avatar](/images/screenshot.png)
-### 保存之后记得重新 ```  gitbook serve ```
+### 保存之后记得重新   ` gitbook serve `
