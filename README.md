@@ -1,7 +1,7 @@
 # Introduction
 
 ## 立项
-[查看在线演示](https://emjio.github.io/gitbook-start/index)
+[查看在线演示](https://emjio.github.io/gitbook-start)
 ``` bash
 # 初始化项目
 #使用之前确保已安装node 
